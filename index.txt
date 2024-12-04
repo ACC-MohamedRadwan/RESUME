@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li::before {
+            content: "✔ ";
+            color: #27ae60;
+        }
+    </style>
+</head>
+<body>
+    <h1>MOHAMMED RADWAN SALEM GAD
+Dubai, United Emirates
+00971544770003 mohamedradwan.28884@gmail.com/mohamedradwan.28884@outlook.com</h1>
+    <p>A senior accountant with over +15 years of progressive experience in accounting. Experienced in All financial
+requirements (financial statements, Reports,A.R,A.P, bank reconcilation , income TAXand VAT, financial analysis
+and ratios, Budget forecasting, recording transactions that accure on adaily basis in addition other related
+financial and accountancy). ADHOC Reporting and Dprojects and helping to implement financial management
+strategies and budgets.</p>
+
+    <h>مBachelor's degree in accounting & Auditing</h2>
+    <ul>
+        <li> - Alexandria University - Alexandria _ Egyptة]</li>
+    </ul>
+
+    <h2>Misr for construction and building (MICON)_FULL TIME_ https://miconcons.com/
+JUNIOR ACCOUNTANT
+-Record financial transactions/Day by day accounting tasks.
+-prepared bank reconcilation note.
+-prepared balance confirmation of A.R/A.P .
+-Adjustments and JL maintenance .
+-Implement Most financial transactions, statements throw MS Office .
+Egyptian Electricity Transmission co (EETC) (Governmental organization)_
+FULL TIME _https://www.eehc.gov.eg/CMSEehc/en/company-info/company-achievements
+SENIOR ACCOUNTANT
+-Responsible for All financial non current transactions, depreciation, Borrowing Capitalization, assets retirement
+obligations, Assets (additions, disposals, retirement).
+-managed Government grants and assistance.
+-managed Leases contracts / Discounted contracts.
+-Reponsible of loan's and Documentary credit's.
+-prepared All stande alone financial statements and consolidated SOFP and SOPL.
+-Reponsible of EETC external account with associates and ensure all adjustments and reflects accure.
+-Negotiate with suppliers about INCOTERMS and currency term's.
+-Devoleped Reports on financial informations,analyzed financial data
+and reported Insights.
+-Evaluated financial performance and identified trends.
+May 2010 - November 2016
+January 2017 - December 2023
+YR GROUP Co _PART TIME_https://www.facebook.com/yasser.ramadan1985?
+mibextid=ZbWKwL
+SENIOR ACCOUNTANT
+-Implemented full accounting & financial throw MS Office and private ERP system.
+-Reponsible of all financial and management accounts (from day by day till data analysis to decide economic
+dissions).
+-Improved profitability controlling operating and Administrative costs &increase revenue.
+-Negotiate and deals with suppliers about sales discount and terms of pay.
+- Managed rainy day money by asmall portfolio For profitability and Cash flow problem's.
+ELASHARAF GROUP Co _PART TIME
+SENIOR ACCOUNTANT
+-Implemented full accounting & financial system throw MS Office and private ERP system.
+-managed reconcil and report A.R/A.P.
+-Managed payrolls reconcilation.
+-Managed Inventory Accounting/Bank reconcilation.
+- Implemented Income tax and VAT.
+-FOB and freight,GL and insurance for imported Goods.
+-optmized All financial requirements.</h2>
+    <ul>
+        <li>financial accountant[EETC] (2008 -ن2024)</li>
+        <li>JUNIOR ACCOUNTANT[MICON] (2006 - 2007)</li>
+    </ul>
+
+    <h2>المهارات</h2>
+    <ul>
+        <li>FINANCIAL ACCOUNTING .
+FINANCIAL MODELING AND REPORTING .</li>
+        <li>DATA MINING AND ANALYSIS .
+BUSINESS VALUATION .
+ADVANCED SAS PROFICIENCY .</li>
+        <li>QUALIFIED ERP SYSTEMS .
+OBSERVATION, DECISION MAKING, COMMUNICATION, MULTI-TASKING.</li>
+    </ul>
+</body>
+</html>
